@@ -297,7 +297,3 @@ Black-Scholes achieves a slightly negative mean cost — a mild profit from the 
 - Kolm & Ritter (2019) — *Dynamic Replication and Hedging: A Reinforcement Learning Approach*
 
 ---
-
-## License
-
-MIT License. See `LICENSE` for details.
